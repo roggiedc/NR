@@ -70,7 +70,8 @@
   "resolutions": {
     "shell-quote": "1.7.3",
     "execa": "6.1.0",
-    "glob-parent": "6.0.2"
+    "glob-parent": "6.0.2",
+    "yargs": "15.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
