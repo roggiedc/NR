@@ -68,7 +68,11 @@
     "expo-notifications": "~0.14.0"
   },
   "resolutions": {
-    "shell-quote": "1.7.3"
+    "shell-quote": "1.7.3",
+    "execa": "6.1.0",
+    "glob-parent": "6.0.2",
+    "ws": "3.3.1",
+    "yargs": "15.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
