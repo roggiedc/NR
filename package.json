@@ -72,7 +72,8 @@
   },
   "resolutions": {
     "execa": "6.1.0",
-    "glob-parent": "6.0.2"
+    "glob-parent": "6.0.2",
+    "shell-quote": "1.7.3"
   },
   "private": true
 }
