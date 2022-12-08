@@ -85,7 +85,8 @@
     "@expo/image-utils": "0.3.22",
     "kind-of": "6.0.3",
     "react-native-codegen": "0.69.2",
-    "decode-uri-component": "0.2.0"
+    "decode-uri-component": "0.2.0",
+    "axios": "1.2.1"
   },
   "private": true
 }
