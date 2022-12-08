@@ -55,11 +55,11 @@
     "react-native-paper": "^4.12.1",
     "react-native-phone-number-input": "^2.1.0",
     "react-native-rapi-ui": "^0.2.1",
-    "react-native-reanimated": "~2.3.1",
+    "react-native-reanimated": "^2.13.0",
     "react-native-safe-area-context": "3.3.2",
     "react-native-screens": "~3.10.1",
     "react-native-simple-popup-menu": "^1.0.3",
-    "react-native-vector-icons": "9.2.0",
+    "react-native-vector-icons": "^9.2.0",
     "react-native-webview": "11.15.0",
     "react-navigation": "^4.4.4",
     "react-navigation-drawer": "^2.7.2",
@@ -85,7 +85,8 @@
     "fbemitter": "3.0.0",
     "@expo/image-utils": "0.3.22",
     "kind-of": "6.0.3",
-    "react-native-codegen": "0.69.2"
+    "react-native-codegen": "0.69.2",
+    "decode-uri-component": "0.2.0"
   },
   "private": true
 }
