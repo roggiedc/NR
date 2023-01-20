@@ -1,8 +1,8 @@
 {
-    "git.ignoreLimitWarning": true,
     "cSpell.words": [
         "codegen",
         "execa",
-        "fbemitter"
+        "fbemitter",
+        "Meterian"
     ]
 }
