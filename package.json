@@ -1,6 +1,8 @@
 {
   "name": "bcremit-us",
-  "version": "1.0.0",
+  "version": "6.0.1",
+  "description": "BCRemit react native application for money remittance service.",
+  "license": "BCRemit",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
@@ -10,14 +12,14 @@
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
     "@react-native-async-storage/async-storage": "^1.17.11",
+    "@react-native-community/netinfo": "9.3.5",
     "@react-navigation/bottom-tabs": "^6.5.3",
     "@react-navigation/material-bottom-tabs": "^6.2.11",
     "@react-navigation/native": "^6.1.2",
     "@react-navigation/stack": "^6.3.11",
     "@xmldom/xmldom": "^0.9.0-beta.6",
-    "axios": "^1.2.4",
+    "axios": "^1.2.3",
     "debug": "^4.3.4",
-    "execa": "^6.1.0",
     "expo": "~47.0.12",
     "expo-app-loading": "^2.1.1",
     "expo-av": "~13.0.2",
@@ -29,14 +31,13 @@
     "expo-local-authentication": "~13.0.2",
     "expo-location": "^15.0.1",
     "expo-notifications": "~0.17.0",
-    "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "^1.4.2",
     "json5": "^2.2.3",
     "kind-of": "^6.0.3",
     "md5": "^2.3.0",
     "moment": "^2.29.4",
     "native-notify": "^3.0.4",
-    "node-fetch": "^3.3.0",
+    "open": "^8.4.0",
     "radio-buttons-react-native": "^1.0.4",
     "react": "18.1.0",
     "react-native": "0.70.5",
@@ -50,7 +51,7 @@
     "react-native-simple-popup-menu": "^1.0.3",
     "react-native-vector-icons": "^9.2.0",
     "react-native-webview": "11.23.1",
-    "yargs": "^17.6.2"
+    "expo-constants": "~14.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12"
