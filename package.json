@@ -2,13 +2,14 @@
   "name": "bcremit-us",
   "version": "1.0.0",
   "description": "BCRemit react native application for money remittance service.",
-  "license": "BCRemit",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web"
   },
+  "author": "BC Remittance Limited",
+  "license": "CC-BY-NC-4.0",
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
     "@react-native-async-storage/async-storage": "^1.17.11",
