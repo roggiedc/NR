@@ -3,6 +3,7 @@
   "version": "6.0.0",
   "description": "BCRemit react native application for money remittance service.",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
@@ -34,6 +35,7 @@
     "md5": "^2.3.0",
     "moment": "^2.29.4",
     "native-notify": "^3.0.3",
+    "npm-force-resolutions": "^0.0.10",
     "radio-buttons-react-native": "^1.0.4",
     "react": "18.1.0",
     "react-native": "0.70.5",
@@ -50,6 +52,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
+  },
+  "resolutions": {
+    "@xmldom/xmldom": "0.8.6"
   },
   "private": true
 }
