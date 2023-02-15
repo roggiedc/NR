@@ -13,6 +13,7 @@
   "license": "CC-BY-NC-4.0",
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
+    "@gorhom/bottom-sheet": "^4.4.5",
     "@react-native-async-storage/async-storage": "^1.17.11",
     "@react-native-community/netinfo": "9.3.5",
     "@react-navigation/bottom-tabs": "^6.4.0",
@@ -48,14 +49,15 @@
     "react-native-screens": "~3.18.0",
     "react-native-simple-popup-menu": "^1.0.3",
     "react-native-vector-icons": "^9.2.0",
-    "react-native-webview": "11.23.1"
+    "react-native-webview": "11.23.1",
+    "react-native-reanimated": "~2.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
   "resolutions": {
-    "@xmldom/xmldom": "^0.8.6",
-    "y18n": "5.0.8",
+    "@xmldom/xmldom": "0.8.6",
+    "y18n": "5.0.5",
     "json5": "2.2.3"
   },
   "private": true
