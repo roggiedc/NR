@@ -59,7 +59,8 @@
     "@xmldom/xmldom": "0.8.6",
     "y18n": "5.0.5",
     "json5": "2.2.3",
-    "glob-parent": "6.0.2"
+    "glob-parent": "6.0.2",
+    "react-native-reanimated": "3.0.0-rc.10"
   },
   "private": true
 }
