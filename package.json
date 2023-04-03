@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -11,11 +12,16 @@
   "dependencies": {
     "expo": "~48.0.9",
     "expo-status-bar": "~1.4.4",
+    "npm-force-resolutions": "^0.0.10",
     "react": "18.2.0",
     "react-native": "0.71.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "resolutions": {
+    "@xmldom/xmldom": "0.8.7",
+    "y18n": "5.0.8"
+  }
 }
