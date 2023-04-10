@@ -55,5 +55,10 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
+  "resolutions": {
+    "@xmldom/xmldom": "0.8.6",
+    "y18n": "5.0.8",
+    "json5": "2.2.3"
+  },
   "private": true
 }
