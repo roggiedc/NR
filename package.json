@@ -31,7 +31,7 @@
     "expo-local-authentication": "~13.2.1",
     "expo-location": "~15.1.1",
     "expo-notifications": "~0.18.1",
-    "expo-splash-screen": "~0.18.1",
+    "expo-splash-screen": "~0.20.2",
     "expo-status-bar": "~1.4.4",
     "md5": "^2.3.0",
     "moment": "^2.29.4",
