@@ -64,7 +64,8 @@
     "y18n": "5.0.8",
     "json5": "2.2.3",
     "semver": "7.5.3",
-    "xml2js": "0.6.0"
+    "xml2js": "0.6.0",
+    "unset-value": "2.0.1"
   },
   "private": true
 }
