@@ -64,7 +64,8 @@
     "execa":"8.0.1",
     "node-fetch":"3.3.2",
     "postcss":"8.4.31",
-    "@babel/traverse": "7.23.2"
+    "@babel/traverse": "7.23.2",
+    "react-devtools-core":"4.28.4"
   },
   "private": true
 }
