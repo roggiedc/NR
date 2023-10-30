@@ -65,7 +65,10 @@
     "node-fetch": "3.3.2",
     "postcss": "8.4.31",
     "@babel/traverse": "7.23.2",
-    "react-devtools-core": "4.28.4"
+    "react-devtools-core": "4.28.4",
+    "babel-plugin-polyfill-corejs2":"0.4.6",
+    "babel-plugin-polyfill-corejs3":"0.8.6",
+    "babel-plugin-polyfill-regenerator":"0.5.3"
   },
   "private": true
 }
