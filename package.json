@@ -1,6 +1,6 @@
 {
   "name": "bcremit",
-  "version": "7.5.6",
+  "version": "7.5.7",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -8,7 +8,8 @@
     "ios": "expo run:ios",
     "web": "expo start --web",
     "lint": "eslint .",
-    "format": "prettier --write 'src/**/*.js'"
+    "format": "prettier --write 'src/**/*.js'",
+    "preinstall": "npx npm-force-resolutions"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
@@ -85,7 +86,7 @@
     "write-file-atomic": "^4.0.0",
     "imurmurhash": "^0.1.4",
     "semver": "7.5.2",
-    "y18n": "^4.0.3",
+    "y18n": "^5.0.8",
     "ws": "^8.17.1"
   },
   "private": true
