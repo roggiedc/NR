@@ -67,8 +67,8 @@
     "react-native-tab-view": "^3.5.2",
     "react-native-vector-icons": "^10.0.3",
     "react-native-webview": "13.6.4",
-    "rn-truelayer-payments-sdk": "^2.1.0",
-    "ws": "^8.17.1"
+    "rn-truelayer-payments-sdk": "^2.1.0"
+    
   },
   "devDependencies": {
     "@babel/core": "^7.24.5",
@@ -85,7 +85,8 @@
     "write-file-atomic": "^4.0.0",
     "imurmurhash": "^0.1.4",
     "semver": "7.5.2",
-    "y18n": "^4.0.3"
+    "y18n": "^4.0.3",
+    "ws": "^8.17.1"
   },
   "private": true
 }
