@@ -73,7 +73,8 @@
     "@expo/config-plugins": "~7.8.0",
     "@expo/prebuild-config": "~6.7.0",
     "expo-modules-autolinking": "~1.10.0",
-    "semver": "~7.5.2"
+    "semver": "~7.5.2",
+    "y18n": "5.0.8"
   },
   "private": true
 }
